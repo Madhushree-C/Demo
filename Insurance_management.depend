@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1601117863 source:e:\ltts\mini project-insurance management\insurance_management\main.c
+	"test_insurance_management.h"
+
+1597007164 source:e:\ltts\mini project-insurance management\insurance_management\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597007164 e:\ltts\mini project-insurance management\insurance_management\unity\unity.h
+	"unity_internals.h"
+
+1597007164 e:\ltts\mini project-insurance management\insurance_management\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1601046942 e:\ltts\mini project-insurance management\insurance_management\test\test_insurance_management.h
+
+1601785274 source:e:\ltts\mini project-insurance management\insurance_management\test\test_insurance_management.c
+	"unity.h"
+	"insurance_management.h"
+
+1601785435 e:\ltts\mini project-insurance management\insurance_management\inc\insurance_management.h
+	<stdio.h>
+	<stdlib.h>
+
+1601784783 source:e:\ltts\mini project-insurance management\insurance_management\src\insurance_management.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"insurance_management.h"
+
