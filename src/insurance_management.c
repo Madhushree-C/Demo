@@ -4,9 +4,9 @@
 #include<time.h>
 #include "insurance_management.h"
 
-int choice(char operand3)
+int choice(char operand10)
 {
-     switch(operand3)
+     switch(operand10)
     {
         case 'B':
             return 1;
@@ -63,9 +63,9 @@ else
     return 1;
 }
 
-int gender(char operand3)
+int gender(char operand9)
 {
-     switch(operand3)
+     switch(operand9)
     {
         case 'M':
         case 'm':
@@ -86,9 +86,9 @@ int gender(char operand3)
 }
 
 
-int age(int operand3)
+int age(int operand8)
 {
-if(operand3>=18&&operand3<=100)
+if(operand8>=18&&operand8<=100)
     return 1;
 else
     return 0;
